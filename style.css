@@ -58,3 +58,8 @@ input{
     text-align: center;
     color: aliceblue;
 }
+
+.boton {
+    display: inline-block;
+    max-width: 100%;
+}
